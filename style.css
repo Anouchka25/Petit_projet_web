@@ -1,0 +1,47 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 0px;
+  font-size: 18px;
+  margin: 0px;
+  color: #FD3F92;
+}
+
+header{background-color: #FD3F92;
+margin-top: 0px;
+height: 5%;}
+
+main{height: 90%; color:black;}
+
+main>h1{text-decoration: underline; color:#FD3F92; text-transform: uppercase; margin-left: 20px; }
+
+main>p{padding-left: 20px; padding-right: 20px;}
+
+main>iframe{margin-left: 20px;}
+
+
+footer{margin-bottom: 0px;
+height: 5%;}
+
+header>nav>ul>li{display: inline;}
+.logo{color: white; margin-left: 0px; margin-right: 100px; font-weight: bold; font-size: 40px}
+.menu{margin-left: 20px;}
+
+/*équipe */
+img{width: 300px; height: 300px; border-radius: 50%; margin-left: 100px;}
+section>h2{color: #FD3F92; text-align: center;}
+section>figure>figcaption{color: #FD3F92; text-align: center}
+
+/* Le bouton */
+button{background-color: #FD3F92; border: 1px solid #FD3F92; border-radius: 20px; height: 70px; width: 700px;}
+button>a{font-size: 40px; color: white; font-weight: bold; text-decoration: none;}
+
+footer>nav>ul>li{display: inline; margin-left: 20px;}
+
+footer{text-align: center; background-color: #FD3F92; color:white;}
+
+footer>nav>ul>li>a, header>nav>ul>li>a{color: white; text-decoration: none;}
