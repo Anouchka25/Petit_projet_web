@@ -1,0 +1,10 @@
+PROGRAMME
+▪	Apprendre à composer une page web HTML/CSS en respectant les normes W3C.
+▪	Positionner différentes zones pour définir une structure.
+▪	Intervenir sur les données contenues dans la structure pour y apporter du style.
+▪	Inclure des fichiers médias (images, vidéos, sons, carte).
+▪	Intégrer différents éléments (titre, texte, liste, formulaire, table, etc.).
+▪	Réaliser plusieurs templates de page avec les feuilles de style CSS.
+▪	Intégrer un menu de navigation et assurer la liaison entres les pages.
+▪	Assurer la compatibilité sur tous les navigateurs.
+▪	Cas Pratique (situation d’entreprise) : intégrer un site web complet en partant d’une maquette graphique.
